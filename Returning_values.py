@@ -18,7 +18,7 @@ amount_b = get_seconds(0, 45, 15)
 result = amount_a + amount_b
 print(result)
 
-# Passed check point I deserve a sandwhich maybe
+# Passed checkpoint I deserve a sandwhich maybe
 def convert_seconds(seconds): 
     hours = seconds // 3600
     minutes = (seconds - hours * 3600) // 60
