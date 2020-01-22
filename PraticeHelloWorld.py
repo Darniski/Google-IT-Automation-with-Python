@@ -1,4 +1,4 @@
-# Quiz 1 - 3 I wont put the choices just the Questions 
+# Quiz 1 - 3:  I wont put the multiple choice answers here just the Questions 
 
 # 1. What are functions in Python?
 
