@@ -1,5 +1,5 @@
 # Hi this the module 1 assessement 
-# 1 - 5 are multiple choice and I will not be displaying those answers the the code problems
+# 1 - 5 are multiple choice and I will not be displaying those answers only to  the code problems
 
 # 6. Write a Python script that outputs "Automating with Python is fun!" to the screen.
 print("Automating with Python is fun!")
